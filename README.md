@@ -1,6 +1,12 @@
 # teste-dev-operacional
 descritivos:
 
-o saldo da empresa está refletindo as taxas.
-correção de algumas palavras para a experiência do usuário.
-organização de pacotes e métodos para boas práticas
+1 - o saldo atual da empresa não estava levando em consideração as taxas.
+
+2 - palavras como entity apareciam para o usuário.
+
+3 - organizei o projeto em pastas e separei os métodos.
+
+4 - quando as empresas eram listadas para o cliente apareciam em uma ordem errada.
+
+5 - organizei o projeto em pastas e separei os metodos.
